@@ -34,10 +34,8 @@ Tecnologías:
 - Supabase
 - PostgreSQL
 
----
-
 ### Pura Vida Yachts en Angular
-Sistema orientado de igual manera a gestionar compras, pagos y seguimiento de clientes.
+Página web orientada de igual manera a gestionar compras, pagos y seguimiento de clientes.
 
 Tecnologías:
 - Typescript
@@ -47,6 +45,19 @@ Tecnologías:
 - .NET
 - Supabase
 - PostgreSQL
+
+###Chepe Trips
+Página web destinada a mostrar los principales sitios turísticos en San Jose, Costa Rica
+Tecnologías utilizadas:
+
+- HTML 
+- JavaScript 
+- CSS
+- Firebase 
+- EmailJS 
+- Bootstrap 
+
+---
 
 ##  Actualmente aprendiendo
 
