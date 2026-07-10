@@ -25,14 +25,16 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web, aplicaciones 
 
 ## Proyectos destacados
 
-### Pura Vida Yachts
-Aplicación móvil desarrollada con .NET MAUI y Supabase para gestionar compras, pagos y seguimiento de clientes.
+### Pura Vida Yachts Mobile
+App móvil de gestión financiera para compras de embarcaciones recreativas (jet ski, lanchas). Permite registrar compras financiadas, controlar abonos y recibir notificaciones automáticas.
 
 Tecnologías:
 - C#
-- .NET MAUI
+- .NET 10 MAUI
 - Supabase
 - PostgreSQL
+- Resend API
+- Plataformas: Android, iOS, macOS Catalyst, Windows
 
 ### Pura Vida Yachts en Angular
 Página web orientada de igual manera a gestionar compras, pagos y seguimiento de clientes.
@@ -65,24 +67,13 @@ Tecnologías:
 - Angular
 - Angular CLI
 
-### Pura Vida Yachts Mobile
-App móvil de gestión financiera para compras de embarcaciones recreativas (jet ski, lanchas). Permite registrar compras financiadas, controlar abonos y recibir notificaciones automáticas.
-
-Tecnologías:
-- C#
-- .NET 10 MAUI
-- Supabase
-- PostgreSQL
-- Resend API
-- Plataformas: Android, iOS, macOS Catalyst, Windows
-
 ---
 
 ##  Actualmente aprendiendo
 
 - Arquitectura de software
 - Desarrollo backend
-- Cloud Computing
+- Angular
 - Buenas prácticas de programación
 
 ##  Contacto
