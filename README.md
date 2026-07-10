@@ -1,4 +1,4 @@
-# Hola, soy Daniel 
+# Hola, soy Daniel Sequeira
 
 Soy estudiante de Ingeniería Informática próximo a graduarse en 2026, tengo un gran interés en desarrollo de software, bases de datos y soluciones tecnológicas.
 
