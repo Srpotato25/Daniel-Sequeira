@@ -47,15 +47,34 @@ Tecnologías:
 - PostgreSQL
 
 ### Chepe Trips
-Página web destinada a mostrar los principales sitios turísticos en San Jose, Costa Rica
-Tecnologías utilizadas:
+Plataforma web de turismo y gestión de eventos.
 
-- HTML 
-- JavaScript 
+Tecnologías:
+- HTML
+- JavaScript
 - CSS
-- Firebase 
-- EmailJS 
-- Bootstrap 
+- Firebase
+- Stripe
+- Bootstrap
+
+### Gifs-app-Angular
+Aplicación de práctica desarrollada con Angular para buscar y mostrar GIFs. Proyecto #3 para aprender Angular.
+
+Tecnologías:
+- TypeScript
+- Angular
+- Angular CLI
+
+### Pura Vida Yachts Mobile
+App móvil de gestión financiera para compras de embarcaciones recreativas (jet ski, lanchas). Permite registrar compras financiadas, controlar abonos y recibir notificaciones automáticas.
+
+Tecnologías:
+- C#
+- .NET 10 MAUI
+- Supabase
+- PostgreSQL
+- Resend API
+- Plataformas: Android, iOS, macOS Catalyst, Windows
 
 ---
 
