@@ -46,7 +46,7 @@ Tecnologías:
 - Supabase
 - PostgreSQL
 
-###Chepe Trips
+### Chepe Trips
 Página web destinada a mostrar los principales sitios turísticos en San Jose, Costa Rica
 Tecnologías utilizadas:
 
